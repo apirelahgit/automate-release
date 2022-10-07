@@ -19,7 +19,7 @@ jobs:
           titleRegex: '^CVC-(?<ticketNumber>\d+)'
       
           bodyRegex: 'CVC-(?<ticketNumber>\d+)'
-          bodyURLRegex: 'http(s?):\/\/(:jira.segurosbolivar.com)(\/CVC/issues)\/(CVC\-)(?<ticketNumber>\d+)'
+          bodyURLRegex: 'http(s?):\/\/(:jira.segurosbolivar.com)(\/projects/CVC/issues)\/(CVC\-)(?<ticketNumber>\d+)'
 
 
   check_labels:
