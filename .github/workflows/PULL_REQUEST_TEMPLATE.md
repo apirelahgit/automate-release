@@ -12,6 +12,8 @@ Relación de acá los Link to related US from Jira board "[nombre](url)"
 
 - [ ] **revisado**
 
+<style>H1{color:Blue;}</style>
+
 ## Tipos de Cambios
 
 - [ ] **chore**: mejoras en temas de administración/mantenimiento del proyecto (i.e. actualización de dependencias)
