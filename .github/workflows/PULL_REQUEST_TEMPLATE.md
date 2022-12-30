@@ -13,7 +13,6 @@ El estándar "Obligatorio" del encoding cuando existen caracteres especiales deb
 - [ ] **Revisado**
 
 
-
 ## Tipos de Cambios
 
 - [ ] **chore**: mejoras en temas de administración/mantenimiento del proyecto (i.e. actualización de dependencias)
