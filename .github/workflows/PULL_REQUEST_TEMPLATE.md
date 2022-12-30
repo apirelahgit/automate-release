@@ -8,7 +8,7 @@ Relación de acá los Link to related US from Jira board "[nombre](url)"
 
 ## Estándar del Encoding de Archivos  (Obligatorio)
 
-El estándar "Obligatorio" del encoding cuando existen caracteres especiales deberá ser ISO-8859-1 (con excepción de los archivos .XML que el encoding deberá ser UTF-8)
+El estándar "Obligatorio" del encoding cuando existen caracteres especiales deberá ser ISO-8859-1 (con excepción de los archivos .XML donde el encoding deberá ser UTF-8)
 
 - [ ] **Revisado**
 
