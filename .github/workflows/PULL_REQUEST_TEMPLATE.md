@@ -12,6 +12,8 @@ Relación de acá los Link to related US from Jira board "[nombre](url)"
 
 - [ ] **revisado**
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 
 ## Tipos de Cambios
 
