@@ -12,6 +12,9 @@ Relación de acá los Link to related US from Jira board "[nombre](url)"
 
 - [ ] **revisado**
 
+$ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
+\textcolor{ your_color }{ \text{ Your text } }
+
 ## Tipos de Cambios
 
 - [ ] **chore**: mejoras en temas de administración/mantenimiento del proyecto (i.e. actualización de dependencias)
